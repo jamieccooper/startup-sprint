@@ -14,6 +14,10 @@ class App < Sinatra::Base
     erb :rainbow
   end
 
+  get '/team' do
+    erb :team
+  end
+
   get '/youtube' do
     erb :youtube
   end

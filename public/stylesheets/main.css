@@ -51,3 +51,8 @@ input:invalid {
 input:valid {
   background: green;
 }
+
+
+img {
+  width: 300px;
+}

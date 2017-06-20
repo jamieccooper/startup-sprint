@@ -43,3 +43,11 @@ rainbow-container{
 #seven {
   background-color: violet;
 }
+
+input:invalid {
+    background: red;
+}
+
+input:valid {
+  background: green;
+}
